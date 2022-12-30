@@ -1,0 +1,1 @@
+NB_POKEMON_2G = 251
